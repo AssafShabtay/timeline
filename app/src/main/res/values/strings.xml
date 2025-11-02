@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timeline Export</string>
+    <!-- Replace with your OAuth 2.0 Client ID from Google Cloud Console -->
+    <string name="oauth_client_id">YOUR_CLIENT_ID.apps.googleusercontent.com</string>
+    <!-- Must be of the form: com.googleusercontent.apps.YOUR_CLIENT_ID:/oauth2redirect -->
+    <string name="redirect_uri">com.googleusercontent.apps.YOUR_CLIENT_ID:/oauth2redirect</string>
+</resources>
